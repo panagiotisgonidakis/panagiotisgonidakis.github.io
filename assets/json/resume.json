@@ -71,15 +71,7 @@
       "name": "Physics",
       "level": "Bachelor",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    },
 
     {
       "name": "Electronics and Communications",
