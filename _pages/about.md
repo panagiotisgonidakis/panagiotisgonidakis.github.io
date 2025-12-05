@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CmPa, KULeuven, Belgium
+subtitle: <a href='#'>Affiliations</a>. CmPA, KULeuven, Belgium
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>200B-04.100</p>
     <p>Leuven, Belgium 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
