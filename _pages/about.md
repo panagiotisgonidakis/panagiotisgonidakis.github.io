@@ -27,4 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at the Center for Plasma Astrophysics (CmPA) at KU Leuven. My research interests include machine learning, computer vision, space weather, and medical imaging. I currently develop space-weather frameworks focused on solar coronal structure detection and segmentation, as well as solar flare forecasting.
+### *Physicist · Machine Learning Engineer*
+
+
+Hello! I’m a postdoctoral researcher at the Center for Plasma Astrophysics (CmPA) at KU Leuven, working at the intersection of machine learning, computer vision, and space weather. I develop intelligent systems that detect solar structures and support solar-flare forecasting. My background also includes research in general computer vision and medical imaging.
