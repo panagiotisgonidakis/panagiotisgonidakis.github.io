@@ -53,7 +53,7 @@
       "area": "Deep Learning for medical imaging applications",
       "studyType": "PhD",
       "startDate": "2017",
-      "endDate": "2024",
+      "endDate": "2024"
     }
   ],
   "awards": [
@@ -70,13 +70,13 @@
     {
       "name": "Physics",
       "level": "Bachelor",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-hashtag"
     },
 
     {
       "name": "Electronics and Communications",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-hashtag"
       
     }
   ],
