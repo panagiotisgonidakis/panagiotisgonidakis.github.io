@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Center for Mathematical Plasma Astrophysics (CmPA), KULeuven</p>
     <p>200B-04.100</p>
-    <p>Leuven, Belgium 12345</p>
+    <p>Leuven 3001, Belgium</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
