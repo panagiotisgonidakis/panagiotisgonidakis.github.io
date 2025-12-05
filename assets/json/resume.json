@@ -5,7 +5,7 @@
     "image": "",
     "email": "panagiotis.gonidakis@kuleuven.be",
     "url": "https://panagiotisgonidakis.github.io",
-    "summary": "I'm a post-doc researcher at CmPA, KULeuven. My research interests are machine learning, computer vision, space weather, solar physics, medical imaging"
+    "summary": "I'm a post-doc researcher at CmPA, KULeuven. My research interests are machine learning, computer vision, space weather, solar physics, medical imaging",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -52,8 +52,8 @@
       "url": "https://physics.upatras.gr/en/",
       "area": "Deep Learning for medical imaging applications",
       "studyType": "Bachelor",
-      "startDate": "2012",
-      "endDate": "2007"
+      "startDate": "2007",
+      "endDate": "2012"
     }
   ],
   
