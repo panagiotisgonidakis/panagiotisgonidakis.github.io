@@ -104,10 +104,7 @@
       "name": "BELSPO: Deep learning prediction and hindsight of flare initiation - DELPHI",
       "summary": "Implement and evaluate different CNN architectures of growing complexity, to find which are optimal for flare predictions (with or without working in operational conditions), and which provide the best results in improving our understanding of the flare initiation mechanisms.",
       "highlights": [
-        "AI onboard",
         "Solar Flare Forecasting",
-        "Solar Coronal Structure Segmentation",
-        "Selective downlink"
       ],
       "startDate": "2024",
       "endDate": "2026",
@@ -117,7 +114,8 @@
       "name": "DEFRA - AIDefSpace",
       "summary": "Using Artificial Intelligence to defend telecommunications and satellite positioning systems from the interference of space weather events.",
       "highlights": [
-        "Solar Flare Forecasting"
+        "Solar Flare Forecasting",
+        "Space weather events and telecommunications"
       ],
       "startDate": "2024",
       "endDate": "2026",
