@@ -22,7 +22,15 @@
       "startDate": "2024-04-15",
       "endDate": "Present",
       "summary": "I am applying machine learning in space weather applications, such as solar flare forecasting and solar coronal structure segmentation and detection.",
-      "highlights": ["Machine learning"]
+      "highlights": ["Machine learning", 
+        "Space Weather", 
+        "Solar Flare Forecasting", 
+        "Solar Coronal Structure Segmentation", 
+        "Physics Driven Neural Networks", 
+        "Fast Solar Wind from Coronal Holes", 
+        "Machine Learning Algorithms Onboard", 
+        "Automatics in Space Exploration (ASAP)"
+      ]
     }
   ],
   "education": [
@@ -79,11 +87,29 @@
   "projects": [
     {
       "name": "Automatics in Space Exploration (ASAP)",
-      "summary": "The ASAP project is dedicated to advancing the automation of space mission operations by harnessing the power of artificial intelligence. By developing AI-driven algorithms optimized for onboard processors, ASAP aims to enhance the autonomy, efficiency, and adaptability of future space missions. This initiative represents a critical step toward reducing human intervention in mission operations, allowing spacecraft to make intelligent decisions in real-time, even in deep-space environments.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "summary": "An EU Horizon project: The ASAP project is dedicated to advancing the automation of space mission operations by harnessing the power of artificial intelligence. By developing AI-driven algorithms optimized for onboard processors, ASAP aims to enhance the autonomy, efficiency, and adaptability of future space missions. This initiative represents a critical step toward reducing human intervention in mission operations, allowing spacecraft to make intelligent decisions in real-time, even in deep-space environments.",
+      "highlights": ["AI onboard", "Solar Flare Forecasting", "Solar Coronal Structure Segmentation", "Selective downlink"],
+      "startDate": "2024",
+      "endDate": "2026",
+      "url": "https://research.kuleuven.be/portal/en/project/3E210423"
+    },
+
+    {
+      "name": "BELSPO: Deep learning prediction and hindsight of flare initiation - DELPHI",
+      "summary": "Implement and evaluate different CNN architectures of growing complexity, to find which are optimal for flare predictions (with or without working in operational conditions), and which provide the best results in improving our understanding of the flare initiation mechanisms.",
+      "highlights": ["AI onboard", "Solar Flare Forecasting", "Solar Coronal Structure Segmentation", "Selective downlink"],
       "startDate": "2024",
       "endDate": "2026",
       "url": "https://asap-space.eu/"
+    },
+
+    {
+      "name": "DEFRA - AIDefSpace",
+      "summary": "Using Artificial Intelligence to defend telecommunications and satellite positioning systems from the interference of space weather events",
+      "highlights": ["Solar Flare Forecasting"],
+      "startDate": "2024",
+      "endDate": "2026",
+      "url": "https://research.kuleuven.be/portal/en/project/3E230105/"
     }
   ]
 }
