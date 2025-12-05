@@ -21,7 +21,7 @@
       "location": "Leuven, Belgium",
       "url": "https://www.kuleuven.be",
       "startDate": "2024-04-15",
-      "endDate": "Present",
+      "endDate": null,
       "summary": "I am applying machine learning in space weather applications, such as solar flare forecasting and solar coronal structure segmentation and detection.",
       "highlights": [
         "Machine learning",
@@ -97,17 +97,17 @@
         "Selective downlink"
       ],
       "startDate": "2024",
-      "endDate": "2026",
+      "endDate": null,
       "url": "https://research.kuleuven.be/portal/en/project/3E210423"
     },
     {
       "name": "BELSPO: Deep learning prediction and hindsight of flare initiation - DELPHI",
       "summary": "Implement and evaluate different CNN architectures of growing complexity, to find which are optimal for flare predictions (with or without working in operational conditions), and which provide the best results in improving our understanding of the flare initiation mechanisms.",
       "highlights": [
-        "Solar Flare Forecasting",
+        "Solar Flare Forecasting"
       ],
-      "startDate": "2024",
-      "endDate": "2026",
+      "startDate": "2025-04-01",
+      "endDate": "2025-09-15",
       "url": "https://asap-space.eu/"
     },
     {
@@ -118,7 +118,7 @@
         "Space weather events and telecommunications"
       ],
       "startDate": "2024",
-      "endDate": "2026",
+      "endDate": null,
       "url": "https://research.kuleuven.be/portal/en/project/3E230105/"
     }
   ]
