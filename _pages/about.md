@@ -13,7 +13,7 @@ profile:
     <p>200B-04.100</p>
     <p>Leuven 3001, Belgium</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
