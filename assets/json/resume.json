@@ -50,7 +50,7 @@
       "location": "Patras, Greece",
       "url": "https://physics.upatras.gr/en/",
       "area": "Computer vision and pattern recognition - Thesis: Real-time hand gesture recognition",
-      "studyType": "Master",
+      "studyType": "MSc in Electronics and Communications",
       "startDate": "2012",
       "endDate": "2015"
     },
@@ -59,7 +59,7 @@
       "location": "Patras, Greece",
       "url": "https://physics.upatras.gr/en/",
       "area": "Specialization: Electronics and Signal Processing - Thesis: Music genre classification using machine learning",
-      "studyType": "Bachelor",
+      "studyType": "BSc in Physics",
       "startDate": "2007",
       "endDate": "2012"
     }
@@ -77,12 +77,12 @@
     },
     {
       "language": "French",
-      "fluency": "Good",
+      "fluency": "Advanced",
       "icon": ""
     },
     {
       "language": "Dutch",
-      "fluency": "Good",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
