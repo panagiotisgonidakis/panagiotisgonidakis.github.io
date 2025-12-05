@@ -30,4 +30,8 @@ latest_posts:
 ### *Physicist · Machine Learning Engineer*
 
 
-Hello! I’m a postdoctoral researcher at the Center for Plasma Astrophysics (CmPA) at KU Leuven, working at the intersection of machine learning, computer vision, and space weather. I develop intelligent systems that detect solar structures and support solar-flare forecasting. My background also includes research in general computer vision and medical imaging.
+Hello! I’m a postdoctoral researcher at the Center for Plasma Astrophysics (CmPA) at KU Leuven, working at the intersection of machine learning (ML), computer vision, and space weather. 
+
+I am currently developping intelligent systems that detect solar structures and support solar-flare forecasting. My background also includes research in general computer vision and medical imaging.
+
+I’m especially interested in AI challenges where labelled data are scarce. I work on combining classical ML tools and physics-based knowledge with deep learning to build more accurate and reliable models.
