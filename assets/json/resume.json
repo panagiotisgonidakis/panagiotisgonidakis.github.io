@@ -35,7 +35,6 @@
       "startDate": "2017",
       "endDate": "2024"
     },
-
     {
       "institution": "University of Patras",
       "location": "Patras, Greece",
@@ -45,7 +44,6 @@
       "startDate": "2012",
       "endDate": "2015"
     },
-
     {
       "institution": "University of Patras",
       "location": "Patras, Greece",
@@ -56,7 +54,6 @@
       "endDate": "2012"
     }
   ],
-  
   "languages": [
     {
       "language": "Greek",
@@ -73,18 +70,16 @@
       "fluency": "Good",
       "icon": ""
     },
-
     {
       "language": "Dutch",
       "fluency": "Good",
       "icon": ""
     }
   ],
-  
   "projects": [
     {
       "name": "Automatics in Space Exploration (ASAP)",
-      "summary": " The ASAP project is dedicated to advancing the automation of space mission operations by harnessing the power of artificial intelligence. By developing AI-driven algorithms optimized for onboard processors, ASAP aims to enhance the autonomy, efficiency, and adaptability of future space missions. This initiative represents a critical step toward reducing human intervention in mission operations, allowing spacecraft to make intelligent decisions in real-time, even in deep-space environments. ",
+      "summary": "The ASAP project is dedicated to advancing the automation of space mission operations by harnessing the power of artificial intelligence. By developing AI-driven algorithms optimized for onboard processors, ASAP aims to enhance the autonomy, efficiency, and adaptability of future space missions. This initiative represents a critical step toward reducing human intervention in mission operations, allowing spacecraft to make intelligent decisions in real-time, even in deep-space environments.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2024",
       "endDate": "2026",
