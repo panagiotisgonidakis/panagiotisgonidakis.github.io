@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CmPA, KULeuven, Belgium
+subtitle: CmPA, KULeuven, Belgium
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Center for mathematical Plasma Astrophysics (CmPA), KULeuven</p>
+    <p>Center for Mathematical Plasma Astrophysics (CmPA), KULeuven</p>
     <p>200B-04.100</p>
     <p>Leuven, Belgium 12345</p>
 
