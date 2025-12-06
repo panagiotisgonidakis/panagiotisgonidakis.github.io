@@ -31,9 +31,41 @@
         "Physics Driven Neural Networks",
         "Fast Solar Wind from Coronal Holes",
         "Machine Learning Algorithms Onboard",
-        "Automatics in Space Exploration (ASAP)"
+        "Automatics in Space Exploration (ASAP)",
+        "Teaching assistant for the courses: Space weather and Differential Equations for bio-engineers"
       ]
-    }
+    },
+
+     {
+      "name": "ETRO, Vrije Universiteti Brussel (VUB)",
+      "position": "Teaching Assistant",
+      "location": "Brussels, Belgium",
+      "url": "https://www.etrovub.be",
+      "startDate": "2017",
+      "endDate": "2024",
+      "summary": "PhD Candidate on machine learning for medical imaging applications and Teaching Assistant for the Master's pogramm of Biomedical Engineering and Master's program of Applied Computer Science",
+      "highlights": [
+        "Machine learning",
+        "Medical Imaging",
+        "Teaching assistant for the courses: Algorithms and Data Structures, Image proceesing for medical imaging"
+      ]
+    },
+
+    {
+      "name": "Department of Physics, University of Patras",
+      "position": "Teaching Assistant",
+      "location": "Patras, Greece",
+      "url": "https://www.etrovub.be",
+      "startDate": "2011",
+      "endDate": "2015",
+      "summary": "Teaching Assistant for the bachelor's and master's courses of Electronics and Signal Processing ",
+      "highlights": [
+        "Analog Electronics", "Digital Electronics", "Pattern Recognition", "Signal Processing",
+        "Teaching assistant for the courses: Lab sesssions for Analog Electronics, Lab sessions for Digital Electronics and DSPs, Lab sessions on signal processing and pattern recognition"
+      ]
+    },
+
+    
   ],
   "education": [
     {
