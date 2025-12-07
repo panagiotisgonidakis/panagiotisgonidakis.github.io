@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 ## *Physicist · Machine Learning Engineer*
-#### machine learning · commputer vision · space weather · medical imaging
+#### machine learning · computer vision · space weather · medical imaging
 
 
 
