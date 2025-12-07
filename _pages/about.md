@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### *Physicist · Machine Learning Engineer*
-#### machinbe learning · commputer vision · space weather · medical imaging*
+## *Physicist · Machine Learning Engineer*
+#### machine learning · commputer vision · space weather · medical imaging
 
 
 
