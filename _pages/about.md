@@ -28,6 +28,8 @@ latest_posts:
 ---
 
 ### *Physicist · Machine Learning Engineer*
+#### machinbe learning · commputer vision · space weather · medical imaging*
+
 
 
 Hello! I’m a postdoctoral researcher at the Center for Plasma Astrophysics (CmPA) at KU Leuven, working at the intersection of machine learning (ML), computer vision, and space weather. 
