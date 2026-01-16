@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-16'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -9,7 +9,7 @@ papers:
     citations: 3
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
-  -9mbCrUAAAAJ:5nxA0vEk-isC:
+  -9mbCrUAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: Classifying Solar Flares with kNN on Sparse Autoencoder Representations
     year: '2025'
@@ -38,7 +38,7 @@ papers:
     title: Prediction of Time-evolving Radial Magnetic Fields on the Solar Surface Using Deep Learning
     year: '2025'
   -9mbCrUAAAAJ:W7OEmFMy1HYC:
-    citations: 28
+    citations: 29
     title: Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients
     year: '2020'
   -9mbCrUAAAAJ:WF5omc3nYNoC:
