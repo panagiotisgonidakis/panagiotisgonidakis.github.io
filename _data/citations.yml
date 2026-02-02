@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-02-02'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 3
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
+  -9mbCrUAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Evaluating Four FPGA-Accelerated Space Use Cases Based on Neural Network Algorithms for On-Board Inference
+    year: '2025'
   -9mbCrUAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: Classifying Solar Flares with kNN on Sparse Autoencoder Representations
@@ -30,7 +34,7 @@ papers:
     title: 'Segmentation and characterization of solar coronal structures: Comparing the efficiency of deep learning and traditional machine learning methods'
     year: '2025'
   -9mbCrUAAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: 'The STOIC2021 COVID-19 AI challenge: applying reusable training methodologies to private data'
     year: '2024'
   -9mbCrUAAAAJ:UebtZRa9Y70C:
