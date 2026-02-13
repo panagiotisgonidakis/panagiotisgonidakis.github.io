@@ -155,6 +155,18 @@
       "endDate": null,
       "url": "https://research.kuleuven.be/portal/en/project/3E230105/"
     },
+
+    {
+      "name": "icovid.ai",
+      "summary": "Using Artificial Intelligence to defend telecommunications and satellite positioning systems from the interference of space weather events.",
+      "highlights": [
+        "Medical imaging and Deep learning",
+        "Lesion detection"
+      ],
+      "startDate": "2022",
+      "endDate": "2024",
+      "url": "https://www.etrovub.be/research/initiatives/initiative-details/overview/10635/"
+    },
     {
       "name": "Augmented Reality for Industrial Maintenance Procedures (ARIA)",
       "summary": "A computer vision project in close collaboration with imec to provide deep learning based object detection for a training application using augmented reality (AR).",
