@@ -158,7 +158,7 @@
 
     {
       "name": "icovid.ai",
-      "summary": "Using Artificial Intelligence to defend telecommunications and satellite positioning systems from the interference of space weather events.",
+      "summary": "Diagnose covid releated lesions on CT scans using machine learning",
       "highlights": [
         "Medical imaging and Deep learning",
         "Lesion detection"
