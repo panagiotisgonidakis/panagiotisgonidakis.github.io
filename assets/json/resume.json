@@ -154,6 +154,17 @@
       "startDate": "2024",
       "endDate": null,
       "url": "https://research.kuleuven.be/portal/en/project/3E230105/"
+    },
+    {
+      "name": "Augmented Reality for Industrial Maintenance Procedures (ARIA)",
+      "summary": "A computer vision project in close collaboration with imec to provide deep learning based object detection for a training application using augmented reality (AR).",
+      "highlights": [
+        "Real-time object detection using deep learning",
+        "Augmented Reality (AR)"
+      ],
+      "startDate": "2015",
+      "endDate": "2017",
+      "url": "https://www.imec-int.com/en/what-we-offer/research-portfolio/aria"
     }
   ]
 }
