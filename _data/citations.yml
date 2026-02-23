@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-23'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Prediction of Time-Evolving Solar Surface Magnetic Fields Using Deep Learning and Their Application
     year: '2025'
   -9mbCrUAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 2
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
@@ -18,12 +18,12 @@ papers:
     title: Classifying Solar Flares with kNN on Sparse Autoencoder Representations
     year: '2025'
   -9mbCrUAAAAJ:9yKSN-GCB0IC:
-    citations: 11
+    citations: 12
     title: Explainable-by-design semi-supervised representation learning for covid-19 diagnosis from ct imaging
     year: '2020'
   -9mbCrUAAAAJ:IjCSPb-OGe4C:
     citations: 0
-    title: Computer-Aided Detection of Lung Nodules using Multi-Level Contextual 3D CNNs
+    title: Computer-aided detection of lung nodules using multi-level contextual 3D CNNs
     year: '2018'
   -9mbCrUAAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -35,14 +35,14 @@ papers:
     year: '2025'
   -9mbCrUAAAAJ:UeHWp8X0CEIC:
     citations: 8
-    title: 'The STOIC2021 COVID-19 AI challenge: applying reusable training methodologies to private data'
+    title: 'The STOIC2021 COVID-19 AI challenge: Applying reusable training methodologies to private data'
     year: '2024'
   -9mbCrUAAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Prediction of Time-evolving Radial Magnetic Fields on the Solar Surface Using Deep Learning
     year: '2025'
   -9mbCrUAAAAJ:W7OEmFMy1HYC:
-    citations: 29
+    citations: 31
     title: Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients
     year: '2020'
   -9mbCrUAAAAJ:WF5omc3nYNoC:
