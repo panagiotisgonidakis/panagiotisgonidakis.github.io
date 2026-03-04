@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-04'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -42,7 +42,7 @@ papers:
     title: Prediction of Time-evolving Radial Magnetic Fields on the Solar Surface Using Deep Learning
     year: '2025'
   -9mbCrUAAAAJ:W7OEmFMy1HYC:
-    citations: 31
+    citations: 32
     title: Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients
     year: '2020'
   -9mbCrUAAAAJ:WF5omc3nYNoC:
