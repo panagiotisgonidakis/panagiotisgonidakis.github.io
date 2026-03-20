@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-20'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Evaluating Four FPGA-Accelerated Space Use Cases Based on Neural Network Algorithms for On-Board Inference
     year: '2025'
   -9mbCrUAAAAJ:8k81kl-MbHgC:
@@ -69,6 +69,10 @@ papers:
     citations: 0
     title: A Multi-Perspective Comparison of Deep Learning and Traditional Machine Learning Methods for Onboard Solar Coronal Structure Detection
     year: '2025'
+  -9mbCrUAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Machine Learning for Solar Coronal Structure Segmentation on SDO AIA Data and Applications
+    year: '2026'
   -9mbCrUAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: Machine Learning Algorithms for Autonomous Space Mission Operations
