@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-03'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Prediction of Time-Evolving Solar Surface Magnetic Fields Using Deep Learning and Their Application
     year: '2025'
   -9mbCrUAAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 3
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
