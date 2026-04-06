@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -25,6 +25,10 @@ papers:
     citations: 0
     title: Computer-aided detection of lung nodules using multi-level contextual 3D CNNs
     year: '2018'
+  -9mbCrUAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: Comparing Solar Structure Detection Methods in SDO/AIA Observations for Onboard Spacecraft Deployment
+    year: '2026'
   -9mbCrUAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: 'Efficient Segmentation and Clustering of Solar Coronal Structures: A Comparison of U-Net and Classical Computer Vision Techniques Using SDO Data'
