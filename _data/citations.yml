@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-05-06'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Prediction of Time-Evolving Solar Surface Magnetic Fields Using Deep Learning and Their Application
     year: '2025'
   -9mbCrUAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: 'Segmentation and characterization of solar coronal structures: Comparing the efficiency of deep learning and traditional machine learning methods'
     year: '2025'
   -9mbCrUAAAAJ:UeHWp8X0CEIC:
-    citations: 8
+    citations: 9
     title: 'The STOIC2021 COVID-19 AI challenge: Applying reusable training methodologies to private data'
     year: '2024'
   -9mbCrUAAAAJ:UebtZRa9Y70C:
@@ -57,6 +57,10 @@ papers:
     citations: 4
     title: Evaluating several ways to combine handcrafted features-based system with a deep learning system using the LUNA16 Challenge framework
     year: '2020'
+  -9mbCrUAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Comparing Solar Structure Detection Methods in SDO/AIA observations and the application to raw uncalibrated data
+    year: '2026'
   -9mbCrUAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: 'Efficient Segmentation, Detection and Clustering of Solar Coronal Structures: A Comparison of U-Net, YOLO and Classical Computer Vision Techniques Using SDO Data'
