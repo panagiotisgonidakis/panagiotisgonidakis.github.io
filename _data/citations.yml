@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-06-01'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 2
     title: Evaluating Four FPGA-Accelerated Space Use Cases Based on Neural Network Algorithms for On-Board Inference
     year: '2025'
   -9mbCrUAAAAJ:8k81kl-MbHgC:
@@ -59,7 +59,7 @@ papers:
     year: '2020'
   -9mbCrUAAAAJ:Zph67rFs4hoC:
     citations: 0
-    title: Comparing Solar Structure Detection Methods in SDO/AIA observations and the application to raw uncalibrated data
+    title: Comparing solar structure detection methods in SDO/AIA observations and the application to raw uncalibrated data
     year: '2026'
   -9mbCrUAAAAJ:_FxGoFyzp5QC:
     citations: 0
