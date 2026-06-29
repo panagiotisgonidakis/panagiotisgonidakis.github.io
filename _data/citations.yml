@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-29'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -37,6 +37,10 @@ papers:
     citations: 0
     title: 'Segmentation and characterization of solar coronal structures: Comparing the efficiency of deep learning and traditional machine learning methods'
     year: '2025'
+  -9mbCrUAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Machine Learning for Solar Coronal Structure Segmentation on SDO AIA Data and Applications
+    year: '2026'
   -9mbCrUAAAAJ:UeHWp8X0CEIC:
     citations: 9
     title: 'The STOIC2021 COVID-19 AI challenge: Applying reusable training methodologies to private data'
@@ -57,9 +61,13 @@ papers:
     citations: 4
     title: Evaluating several ways to combine handcrafted features-based system with a deep learning system using the LUNA16 Challenge framework
     year: '2020'
+  -9mbCrUAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Probabilistic Solar Flare Forecasting via Weakly Supervised Contrastive Refinement of VAE Latent Spaces
+    year: '2026'
   -9mbCrUAAAAJ:Zph67rFs4hoC:
     citations: 0
-    title: Comparing solar structure detection methods in SDO/AIA observations and the application to raw uncalibrated data
+    title: Comparing Solar Structure Detection Methods in SDO/AIA observations and the application to raw uncalibrated data
     year: '2026'
   -9mbCrUAAAAJ:_FxGoFyzp5QC:
     citations: 0
@@ -86,7 +94,7 @@ papers:
     title: Machine Learning Algorithms for Autonomous Space Mission Operations
     year: '2025'
   -9mbCrUAAAAJ:u-x6o8ySG0sC:
-    citations: 2
+    citations: 3
     title: Artificially augmenting data or adding more samples? A study on a 3D CNN for lung nodule classification
     year: '2020'
   -9mbCrUAAAAJ:ufrVoPGSRksC:
