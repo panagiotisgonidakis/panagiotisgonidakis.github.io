@@ -38,6 +38,8 @@ I participated as an instructor and had the pleasure of presenting basic concept
 
 Attended and presented at EGU 2026!
 
+https://doi.org/10.5194/egusphere-egu26-11886
+
 ---
 
 ## March 2026
