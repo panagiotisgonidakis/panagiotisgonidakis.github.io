@@ -1,7 +1,11 @@
 ---
 layout: page
-title: news
+title: News
 permalink: /news/
+nav: true
+nav_order: 5
 ---
 
-{% include news.liquid %}
+# News
+
+Below are recent updates from my research and professional activities.
