@@ -34,11 +34,9 @@ I participated as an instructor and had the pleasure of presenting basic concept
 
 ---
 
-## May 2026
+## May 2026: EGU 2026
 
-### EGU 2026
-
-Attended EGU 2026.
+Attended and presented at EGU 2026!
 
 ---
 
