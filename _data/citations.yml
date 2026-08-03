@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-08-03'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Prediction of Time-Evolving Solar Surface Magnetic Fields Using Deep Learning and Their Application
     year: '2025'
   -9mbCrUAAAAJ:2osOgNQ5qMEC:
-    citations: 4
+    citations: 5
     title: Handcrafted features can boost performance and data-efficiency for deep detection of lung nodules from CT imaging
     year: '2023'
   -9mbCrUAAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 3
     title: Evaluating Four FPGA-Accelerated Space Use Cases Based on Neural Network Algorithms for On-Board Inference
     year: '2025'
   -9mbCrUAAAAJ:8k81kl-MbHgC:
@@ -47,10 +47,10 @@ papers:
     year: '2024'
   -9mbCrUAAAAJ:UebtZRa9Y70C:
     citations: 2
-    title: Prediction of Time-evolving Radial Magnetic Fields on the Solar Surface Using Deep Learning
+    title: Prediction of time-evolving radial magnetic fields on the solar surface using deep learning
     year: '2025'
   -9mbCrUAAAAJ:W7OEmFMy1HYC:
-    citations: 32
+    citations: 30
     title: Comparative study of deep learning methods for the automatic segmentation of lung, lesion and lesion type in CT scans of COVID-19 patients
     year: '2020'
   -9mbCrUAAAAJ:WF5omc3nYNoC:
