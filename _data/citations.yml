@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-28'
 papers:
   -9mbCrUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: 'The STOIC2021 COVID-19 AI challenge: Applying reusable training methodologies to private data'
     year: '2024'
   -9mbCrUAAAAJ:UebtZRa9Y70C:
-    citations: 2
+    citations: 4
     title: Prediction of time-evolving radial magnetic fields on the solar surface using deep learning
     year: '2025'
   -9mbCrUAAAAJ:W7OEmFMy1HYC:
@@ -73,6 +73,10 @@ papers:
     citations: 0
     title: 'Efficient Segmentation, Detection and Clustering of Solar Coronal Structures: A Comparison of U-Net, YOLO and Classical Computer Vision Techniques Using SDO Data'
     year: '2025'
+  -9mbCrUAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Statistical Analysis of Coronal Hole Spatiotemporal Evolution, Kinematics, and Lifetimes over 1.5 Solar Cycles
+    year: '2026'
   -9mbCrUAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Explainable-by-design Semi-Supervised Representation Learning for COVID-19 Diagnosis from CT Imaging
